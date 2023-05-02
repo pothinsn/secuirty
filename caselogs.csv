@@ -1,7 +1,7 @@
 ﻿Manufacturer Disclosure Statement for Medical Device Security -- MDS2,,,,,,,,,,,,,
 "Bio-Rad Laboratories, Inc.",D-100. Software revision 1.4.1,DC-MDS2-1032A,Apr 27 2021,,,,,,,,,,
 ,,,,,,,,,,,,,
-Question ID,Question,,See note,,,,Notes,IEC TR 80001-2-2:2012,NIST SP 800-53 Rev. 4,ISO 27002:2013,,0,
+ID,Question,,See note,,,,Notes,IEC TR 80001-2-2:2012,NIST SP 800-53 Rev. 4,ISO 27002:2013,,0,
 DOC-1,Manufacturer Name,"Bio-Rad Laboratories, Inc.",__,,,,,,,,,0,Note 0
 DOC-2,Device Description,"The D-100 Hemoglobin Testing System uses the principles of high-performance liquid chromatography (HPLC).  A high-pressure pumping system delivers a buffer solution to an analytical cartridge and detector.  Whole blood samples undergo an automatic hemolysis and dilution process before being introduced into analytical flow path.  Prediluted samples are identified based upon the use of a microvial adapter in the sample pack, and the automatic dilution step is omitted.
 A programmed buffer gradient of increasing ionic strength delivers the sample delivers the sample to the analytical cartridge where the hemoglobin species are separated based upon their ionic interactions with the cartridge material and the buffer gradient.  The separated hemoglobin species then pass through the flow cell where changes in the absorbance are measured at 415 nm and recorded as a digital chromatogram. 
